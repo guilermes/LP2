@@ -1,0 +1,16 @@
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\bin\Debug\net8.0-windows\Pcalc.exe
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\bin\Debug\net8.0-windows\Pcalc.deps.json
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\bin\Debug\net8.0-windows\Pcalc.runtimeconfig.json
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\bin\Debug\net8.0-windows\Pcalc.dll
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\bin\Debug\net8.0-windows\Pcalc.pdb
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.Form1.resources
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.csproj.GenerateResource.cache
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.AssemblyInfoInputs.cache
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.AssemblyInfo.cs
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.csproj.CoreCompileInputs.cache
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.dll
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\refint\Pcalc.dll
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.pdb
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\Pcalc.genruntimeconfig.cache
+C:\Users\0030482321024\Desktop\LPII\A_Pratica2\Pcalc\Pcalc\obj\Debug\net8.0-windows\ref\Pcalc.dll
