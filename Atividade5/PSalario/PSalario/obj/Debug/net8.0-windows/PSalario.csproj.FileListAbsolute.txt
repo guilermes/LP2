@@ -1,0 +1,16 @@
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\bin\Debug\net8.0-windows\PSalario.exe
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\bin\Debug\net8.0-windows\PSalario.deps.json
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\bin\Debug\net8.0-windows\PSalario.runtimeconfig.json
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\bin\Debug\net8.0-windows\PSalario.dll
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\bin\Debug\net8.0-windows\PSalario.pdb
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.Form1.resources
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.csproj.GenerateResource.cache
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.AssemblyInfoInputs.cache
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.AssemblyInfo.cs
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.dll
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\refint\PSalario.dll
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.pdb
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\PSalario.genruntimeconfig.cache
+C:\Users\0030482321024\Desktop\LPII\Atividade4\PSalario\PSalario\obj\Debug\net8.0-windows\ref\PSalario.dll
