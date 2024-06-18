@@ -1,0 +1,10 @@
+C:\Users\0030482321024\Desktop\PReava\PReava\bin\Debug\PReava.exe.config
+C:\Users\0030482321024\Desktop\PReava\PReava\bin\Debug\PReava.exe
+C:\Users\0030482321024\Desktop\PReava\PReava\bin\Debug\PReava.pdb
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.csproj.AssemblyReference.cache
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.Form1.resources
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.Properties.Resources.resources
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.csproj.GenerateResource.cache
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.csproj.CoreCompileInputs.cache
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.exe
+C:\Users\0030482321024\Desktop\PReava\PReava\obj\Debug\PReava.pdb
